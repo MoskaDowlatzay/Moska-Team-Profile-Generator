@@ -37,7 +37,7 @@ function multipleChoice() {
       }
     });
   }
-  function one() {
+  function Manager () {
     const questions = [
         {
           name: "name",

@@ -7,7 +7,9 @@ This application has been made to generate a team profile based on the input of 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Tests](#tests)
+* [Github](#links)
 * [Questions](#questions)
+
 
 ## Installation 
 User needs to clone the repo from Github and if testing is required, this application uses Jest. 
@@ -18,6 +20,10 @@ This app allows a user to generate a team profile by inputting information about
 
 ## Tests
 Run `npm test` to run Jest for tests. 
+
+## Github 
+https://moskadowlatzay.github.io/Moska-Team-Profile-Generator/
+https://github.com/MoskaDowlatzay/Moska-Team-Profile-Generator
 
 ## Questions
 If you have any questions please reach out to me at moskadowlatzay@hotmail.com.
